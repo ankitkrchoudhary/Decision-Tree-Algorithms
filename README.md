@@ -1,0 +1,1 @@
+Welcome to my Decision Tree Algorithm projects repository! This repo includes intuitive explanations, practical implementations, and real-world applications of one of the most powerful and interpretable machine learning algorithms — the Decision Tree.
